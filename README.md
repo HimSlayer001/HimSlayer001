@@ -46,7 +46,6 @@ I'm a developer who likes to understand things **from the atom up**: how a shell
 | 🔭 **Exploring next** | Distributed systems, search/IR at scale (inverted indexes, ranking, replication) |
 | 🧱 **Systems** | POSIX shell internals, process handling, builtins, parsing (C++) |
 | 🧮 **Algorithms** | Arrays, two pointers, sliding window, stacks, binary search and beyond, in modern C++ |
-| 🧬 **Signals & science** | EEG signal processing and seizure detection |
 | 🗄️ **Data** | SQLite, relational schema design |
 
 ---
@@ -66,7 +65,7 @@ An **IT Service Desk agent** that answers from a knowledge base using RAG, acts 
 <td width="50%" valign="top">
 
 ### 🔎 [rag_to_riches](https://github.com/HimSlayer001/rag_to_riches)
-A from-the-basics **Retrieval-Augmented Generation** pipeline: dataset, indexing and embedding, query, then LLM response, "letting the vectors do the magic".
+**Retrieval-Augmented Generation** built from first principles (in progress): cosine-similarity retrieval and local embeddings with Ollama.
 
 `Python` `Embeddings` `LLM`
 
@@ -80,10 +79,10 @@ A **POSIX-compliant shell** in C++ built through the CodeCrafters challenge: com
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 [EEG_SignalProcessing](https://github.com/HimSlayer001/EEG_SignalProcessing)
-EEG signal processing and **seizure detection**, applying software engineering to biomedical signals.
+### 🏠 [floo](https://github.com/HimSlayer001/floo)
+A desktop **floor plan designer** in Java Swing: rooms, doors, windows and furniture on a grid canvas, with save and load.
 
-`Signal Processing` `Biomedical`
+`Java` `Swing` `GUI`
 
 </td>
 <td width="50%" valign="top">
@@ -97,7 +96,7 @@ A curated archive of **NeetCode** solutions in modern C++, with an emphasis on r
 </tr>
 </table>
 
-**Also on my shelf:** [`cliLogger`](https://github.com/HimSlayer001/cliLogger) (Python CLI logging) · [`floo`](https://github.com/HimSlayer001/floo) (Java) · [`floor-planner`](https://github.com/HimSlayer001/floor-planner)
+**Also on my shelf:** [`logsleuth / cliLogger`](https://github.com/HimSlayer001/cliLogger) (Python log analyzer, in progress)
 
 ---
 
