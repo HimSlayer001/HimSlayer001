@@ -6,6 +6,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=HimSlayer001&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS)
 ![Location](https://img.shields.io/badge/Hyderabad-India-0f2027?style=for-the-badge&logo=googlemaps&logoColor=white)
+[![Portfolio](https://img.shields.io/badge/Portfolio-himslayer001.github.io-4FC3F7?style=for-the-badge&logo=githubpages&logoColor=white)](https://himslayer001.github.io)
 ![Followers](https://img.shields.io/github/followers/HimSlayer001?style=for-the-badge&logo=github&color=203a43)
 
 </div>
@@ -129,6 +130,7 @@ class Kanav:
 
 <div align="center">
 
+🌐 **Portfolio:** [himslayer001.github.io](https://himslayer001.github.io)  
 📫 **Reach me:** [kasooden@gmail.com](mailto:kasooden@gmail.com) · [GitHub](https://github.com/HimSlayer001)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" alt="footer" />
