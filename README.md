@@ -2,9 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Kanav%20Sooden&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Atom%20%7C%20Byte%20%7C%20Gene&descSize=20&descAlignY=60" alt="header" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=4FC3F7&center=true&vCenter=true&width=700&lines=Building+LLM+agents+that+run+100%25+locally;RAG+%C2%B7+Tool+calling+%C2%B7+Guardrails+%C2%B7+Evals;Writing+a+POSIX+shell+in+C%2B%2B+from+scratch;Grinding+DSA+in+modern+C%2B%2B;Signal+processing+meets+software+engineering)](https://github.com/HimSlayer001)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=4FC3F7&center=true&vCenter=true&width=700&lines=AI+agents+that+run+100%25+locally;RAG+%C2%B7+Tool+calling+%C2%B7+Guardrails+%C2%B7+Evals;Going+deep+on+systems+%26+distributed+search;A+POSIX+shell+in+C%2B%2B+from+scratch)](https://github.com/HimSlayer001)
 
-![Profile views](https://komarev.com/ghpvc/?username=HimSlayer001&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS)
 ![Location](https://img.shields.io/badge/Hyderabad-India-0f2027?style=for-the-badge&logo=googlemaps&logoColor=white)
 [![Portfolio](https://img.shields.io/badge/Portfolio-himslayer001.github.io-4FC3F7?style=for-the-badge&logo=githubpages&logoColor=white)](https://himslayer001.github.io)
 ![Followers](https://img.shields.io/github/followers/HimSlayer001?style=for-the-badge&logo=github&color=203a43)
@@ -17,7 +16,8 @@
 
 I'm a developer who likes to understand things **from the atom up**: how a shell parses a command, how a retriever ranks a document, how a seizure shows up in an EEG trace. I'm happiest where systems programming, applied AI and a bit of science overlap, and I'm curious across domains.
 
-- 🔭 Currently building **LLM agents with retrieval, tool calling and safety guardrails**, all running locally.
+- 🤖 **Primary focus: AI agents**: retrieval, tool calling, safety guardrails and evaluation, all running locally.
+- 🏗️ **Going deeper into systems**: distributed systems, search and information retrieval (indexing, ranking, sharding), building toward them with each project.
 - 🧪 I care about **measuring** things: if a system can't be evaluated, I don't trust it.
 - ⚙️ Learning by **building from scratch**: shells, loggers, retrieval pipelines.
 - 🧠 Sharpening fundamentals with a structured **NeetCode 250** run in C++.
@@ -43,6 +43,7 @@ I'm a developer who likes to understand things **from the atom up**: how a shell
 | Area | What I work with |
 | --- | --- |
 | 🤖 **Applied AI** | RAG, hybrid retrieval (BM25 + embeddings, RRF), tool calling, prompt-injection defence, local LLMs via Ollama |
+| 🔭 **Exploring next** | Distributed systems, search/IR at scale (inverted indexes, ranking, replication) |
 | 🧱 **Systems** | POSIX shell internals, process handling, builtins, parsing (C++) |
 | 🧮 **Algorithms** | Arrays, two pointers, sliding window, stacks, binary search and beyond, in modern C++ |
 | 🧬 **Signals & science** | EEG signal processing and seizure detection |
@@ -107,9 +108,6 @@ A curated archive of **NeetCode** solutions in modern C++, with an emphasis on r
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=HimSlayer001&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimSlayer001&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="top languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HimSlayer001&theme=tokyonight&hide_border=true" alt="streak" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=HimSlayer001&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies" />
 
 </div>
 
@@ -120,8 +118,8 @@ A curated archive of **NeetCode** solutions in modern C++, with an emphasis on r
 ```python
 class Kanav:
     location = "Hyderabad, India"
-    focus    = ["LLM agents", "RAG", "evals", "systems in C++"]
-    learning = ["agent safety", "retrieval quality", "algorithms"]
+    focus    = ["AI agents", "RAG", "evals", "systems in C++"]
+    learning = ["distributed systems", "search & IR", "agent safety"]
     motto    = "Atom | Byte | Gene"
 
     def next(self):
