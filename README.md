@@ -14,7 +14,7 @@
 
 ## 👋 About me
 
-I'm a developer who likes to understand things **from the atom up**: how a shell parses a command, how a retriever ranks a document, how a seizure shows up in an EEG trace. I'm happiest where systems programming, applied AI and a bit of science overlap, and I'm curious across domains.
+I'm a developer who likes to understand things **from the atom up**: how a shell parses a command, how a retriever ranks a document. My main focus is AI agents, and I'm going deeper into systems and distributed search. I'm curious across domains.
 
 - 🤖 **Primary focus: AI agents**: retrieval, tool calling, safety guardrails and evaluation, all running locally.
 - 🏗️ **Going deeper into systems**: distributed systems, search and information retrieval (indexing, ranking, sharding), building toward them with each project.
