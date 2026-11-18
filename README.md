@@ -100,15 +100,50 @@ A curated archive of **NeetCode** solutions in modern C++, with an emphasis on r
 
 ---
 
-## 📊 GitHub stats
+## ✨ What I bring
 
-<div align="center">
+<table>
+<tr>
+<td width="33%" valign="top">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=HimSlayer001&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimSlayer001&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="top languages" />
+**🛡️ Safety-minded AI**
+My agents redact secrets and refuse prompt injection *before* the model is ever called.
 
+</td>
+<td width="33%" valign="top">
 
-</div>
+**📏 Measured, not guessed**
+Retrieval quality, tool selection, citations and latency are scored on labelled question sets.
+
+</td>
+<td width="33%" valign="top">
+
+**🔒 Local-first by design**
+LLM apps that run fully on-device with Ollama, so no data leaves the machine.
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**🧱 Builds from first principles**
+A POSIX shell in C++, RAG with hand-written cosine similarity, a Swing floor planner in Java.
+
+</td>
+<td valign="top">
+
+**🧪 Test and type discipline**
+pytest, mypy and ruff are part of my workflow from the first commit.
+
+</td>
+<td valign="top">
+
+**🌱 Always levelling up**
+Daily algorithm practice in C++ while moving toward distributed systems and search.
+
+</td>
+</tr>
+</table>
 
 ---
 
